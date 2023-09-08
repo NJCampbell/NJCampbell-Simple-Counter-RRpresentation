@@ -1,0 +1,17 @@
+.counter-display {    
+    text-align: center;
+    margin: 100px 0;   
+}
+
+.counter-display div {
+    display: inline-block;
+    font-size: 100px;
+    background: black;
+    color: white;
+    width: 80px;
+}
+
+.bi-stopwatch {
+    width: 70px;
+    height: 70px;
+}
